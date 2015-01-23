@@ -1,4 +1,6 @@
 .Python
+tweets.csv
 bin/
 include/
 lib/
+venv
